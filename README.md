@@ -1,2 +1,1 @@
-# mahjmatchmaker-assets
-Web images for mahjmatchmaker.com
+Web images for mahjmatchmaker.com, served via GitHub Pages.
